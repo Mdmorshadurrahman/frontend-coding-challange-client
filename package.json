@@ -13,8 +13,11 @@
     "react-redux": "^8.0.5",
     "react-scripts": "5.0.1",
     "redux-logger": "^3.0.6",
+    "socket.io": "^4.6.1",
     "three": "^0.150.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "websocket": "^1.0.34",
+    "ws": "^8.13.0"
   },
   "scripts": {
     "start": "react-scripts start",

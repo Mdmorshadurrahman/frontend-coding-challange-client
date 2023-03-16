@@ -6,7 +6,7 @@ function CounterValue() {
     console.log(data)
     return (
         <div>
-            <span className='border-2 border-black px-1'>{data?data.payload:0}</span>
+            <span className='border-2 border-black px-2 rounded-lg'>{data?data.payload:0}</span>
         </div>
     )
 }
